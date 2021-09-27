@@ -1,5 +1,5 @@
-API_TOKEN = '1289945468:AAE_UOO7954gt_AhoS-KyF45wkkcEi5JLEM'
-VK_TOKEN = 'fe52e0ebfe52e0ebfe52e0eb93fe256c67ffe52fe52e0eb9ed09eaf0b56a80f213383f4'
+API_TOKEN = 'SecretToken'
+VK_TOKEN = 'AnotherSecretToken'
 
 long_message1 = "Привет! \nЯ фанбот Кости Мясникова и горжусь этим. Каждый день среди своих подписчиков я разыгрываю" \
                 " право быть любимчиком Кости. Также подписчики получают " \
